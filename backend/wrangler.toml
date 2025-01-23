@@ -6,3 +6,4 @@ compatibility_date = "2025-01-23"
 
 [vars]
 DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiN2I2NTg1NDItOGU2Mi00Zjg2LTlmMjAtMTZhODYzZmY4ZWE4IiwidGVuYW50X2lkIjoiODM0ZTFlODNmYWQ0MWJmNzdlODAzMTc4ZmRkYTgxOTgzM2YxNzZlOWQwMWFlNTkwODVkODdjZjNjYTU3YjIxYyIsImludGVybmFsX3NlY3JldCI6ImJlYTIzNTljLTVkMmQtNDYzMy1iNjQxLTgzYWE3NjVkODAwZiJ9.cGh-juktgy1AumO0BaU0mViaE2-M3CFYIoFCsDEun0Y"
+JWT_SECRET="sidsecret"
