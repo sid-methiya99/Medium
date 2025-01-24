@@ -1,0 +1,17 @@
+{
+  "name": "@siddharth_methiya1/medium-common",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "zod": "^3.24.1"
+  }
+}
